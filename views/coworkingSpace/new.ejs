@@ -1,0 +1,84 @@
+<% layout("layouts/Boilerplate") %>
+
+<div class="col-6 offset-3">
+  <h2 class="text-center">New Coworking Space</h2>
+
+  <form
+    action="/coworkingSpaces"
+    method="POST"
+    class="needs-validation"
+    novalidate
+    enctype="multipart/form-data"
+  >
+    <div class="mb-3">
+      <label class="form-label" for="title">Title:</label>
+      <input
+        class="form-control"
+        type="text"
+        id="title"
+        name="coworkingSpace[title]"
+        required
+      />
+      <div class="valid-feedback">Looks good!</div>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label" for="location">Location:</label>
+      <input
+        class="form-control"
+        type="text"
+        id="location"
+        name="coworkingSpace[location]"
+        required
+      />
+      <div class="valid-feedback">Looks good!</div>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label" for="price">Coworking Space Price:</label>
+      <div class="input-group mb-3">
+        <span class="input-group-text" id="basic-addon1">$</span>
+        <input
+          type="number"
+          class="form-control"
+          placeholder="0.00"
+          aria-label="price"
+          id="price"
+          aria-describedby="basic-addon1"
+          name="coworkingSpace[price]"
+          required
+        />
+      </div>
+      <div class="valid-feedback">Looks good!</div>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label" for="description">Description:</label>
+      <textarea
+        class="form-control"
+        type="text"
+        id="description"
+        name="coworkingSpace[description]"
+        required
+      ></textarea>
+      <div class="valid-feedback">Looks good!</div>
+    </div>
+
+    <div class="mb-3">
+      <label for="image" class="form-label">Choose images:</label>
+      <input
+        class="form-control"
+        type="file"
+        id="image"
+        name="image"
+        multiple
+      />
+    </div>
+
+    <button class="btn btn-success mb-3">Add Coworking Space</button>
+  </form>
+  <!-- 
+    <footer>
+        <a href="/coworkingSpaces">All Coworking Spaces</a>
+    </footer> -->
+</div>

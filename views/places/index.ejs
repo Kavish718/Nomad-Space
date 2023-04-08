@@ -1,0 +1,83 @@
+<% layout("layouts/Boilerplate") %>
+
+<div class="container">
+  <h1 class="mt-3">🏅 Top Ranked</h1>
+
+  <div class="row mt-5 mb-3 ms-2">
+    <div class="col">
+      <a href="/places" class="btn css-button-arrow--red"> ⭐️ Overall </a>
+      <a href="/places/cost" class="btn css-button-arrow--red">💵 Cost</a>
+      <a href="/places/internet" class="btn css-button-arrow--red">
+        📡 Internet
+      </a>
+      <a href="/places/fun" class="btn css-button-arrow--red">😀 Fun</a>
+      <a href="/places/safety" class="btn css-button-arrow--red">👮 Safety</a>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12 mt-3 mb-3">
+      <!-- Prev MAIN HERE -->
+
+      <% cities.forEach((city, i) => { %> <% if (i%4 === 0 && i !=0 ) { %>
+    </div>
+    <% } %> <% if (i%4 === 0) { %>
+    <div class="row mb-md-2">
+      <% } %>
+
+      <div class="col-md-3 mt-md-0 mt-3">
+        <form action="/places/find" method="GET">
+          <div
+            class="card shadow rounded-corner p-3"
+            type="submit"
+            onclick="submitForm(this.id)"
+            id="<%= i %>"
+            data-bs-toggle="tooltip"
+            data-bs-html="true"
+            title="⭐️ Overall <%= city.overall %>/5<br> 💵 Cost <%= city.cost %>/5<br> 📡 Internet <%= city.internet %>/5<br> 😀 Fun <%= city.fun %>/5<br> 👮 Safety <%= city.safety %>/5 <br>"
+          >
+            <input
+              type="text"
+              name="loc"
+              id="loc"
+              value="<%= city.city %>, <%= city.country %>"
+              hidden
+            />
+            <div class="row">
+              <div class="col">
+                <img
+                  src="<%= city.imageUrl %>"
+                  alt=""
+                  class="img-fluid city-img"
+                />
+                <div class="centered badge bg-white text-wrap fs-5">
+                  <%= city.city %>
+                </div>
+                <div class="bottom-right badge bg-white text-wrap fs-6">
+                  🌎 <%= city.country %>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <% }) %>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var tooltipTriggerList = [].slice.call(
+      document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    );
+    var tooltipList = tooltipTriggerList.map(function (element) {
+      return new bootstrap.Tooltip(element);
+    });
+  });
+
+  function submitForm(id) {
+    document.forms[id].submit();
+  }
+</script>

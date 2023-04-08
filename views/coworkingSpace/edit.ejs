@@ -1,0 +1,106 @@
+<% layout("layouts/Boilerplate") %>
+
+<div class="col-6 offset-3">
+  <h2 class="text-center">Edit Coworking Space</h2>
+
+  <form
+    action="/coworkingSpaces/<%= coworkingSpace._id %>/?_method=PUT"
+    method="POST"
+    novalidate
+    class="validated-form"
+    enctype="multipart/form-data"
+  >
+    <div class="mb-3">
+      <label class="form-label" for="title">Title:</label>
+      <input
+        class="form-control"
+        type="text"
+        id="title"
+        name="coworkingSpace[title]"
+        value="<%= coworkingSpace.title %>"
+        required
+      />
+      <div class="valid-feedback">Looks good!</div>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label" for="location">Location:</label>
+      <input
+        class="form-control"
+        type="text"
+        id="location"
+        name="coworkingSpace[location]"
+        value="<%= coworkingSpace.location %>"
+        required
+      />
+      <div class="valid-feedback">Looks good!</div>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label" for="price">Coworking Space Price:</label>
+      <div class="input-group mb-3">
+        <span class="input-group-text" id="basic-addon1">$</span>
+        <input
+          type="number"
+          class="form-control"
+          placeholder="0.00"
+          aria-label="price"
+          id="price"
+          aria-describedby="basic-addon1"
+          name="coworkingSpace[price]"
+          value="<%= coworkingSpace.price %>"
+          required
+        />
+        <div class="valid-feedback">Looks good!</div>
+      </div>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label" for="description">Description:</label>
+      <textarea
+        class="form-control"
+        type="text"
+        id="description"
+        name="coworkingSpace[description]"
+        required
+      >
+ <%= coworkingSpace.description %> </textarea
+      >
+      <div class="valid-feedback">Looks good!</div>
+    </div>
+
+    <div class="mb-3">
+      <label for="image" class="form-label">Add more images:</label>
+      <input
+        class="form-control"
+        type="file"
+        id="image"
+        name="image"
+        multiple
+      />
+    </div>
+
+    <div class="mb-3">
+      <% coworkingSpace.images.forEach(function(img, i) { %>
+      <img src="<%= img.thumbnail %>" class="img-thumbnail" alt="" />
+      <div class="form-check-inline">
+        <input
+          type="checkbox"
+          name="deleteImages[]"
+          id="<%= i %>"
+          value="<%= img.filename %>"
+        />
+      </div>
+      <label for="image-<%= i %>">Delete?</label>
+      <% }) %>
+    </div>
+
+    <button class="btn btn-info text-white mb-3">Update Coworking Space</button>
+  </form>
+
+  <footer>
+    <a href="/coworkingSpaces/<%= coworkingSpace._id %>"
+      >Back To Coworking Space</a
+    >
+  </footer>
+</div>

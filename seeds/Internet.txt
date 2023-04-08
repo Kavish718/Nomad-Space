@@ -1,0 +1,13034 @@
+#1
+🏙️  city: 
+
+Gran Canaria, Canary Islands 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 5/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 5/5
+
+#2
+🏙️  city: 
+
+Lisbon 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 5/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#3
+🏙️  city: 
+
+Budapest 
+
+🌎 country: 
+
+Hungary 
+
+⭐️ overall: 5/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#4
+🏙️  city: 
+
+Miami, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 5/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#5
+🏙️  city: 
+
+Porto 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 5/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#6
+🏙️  city: 
+
+Seoul 
+
+🌎 country: 
+
+South Korea 
+
+⭐️ overall: 5/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#7
+🏙️  city: 
+
+Chiang Mai 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#8
+🏙️  city: 
+
+Sofia 
+
+🌎 country: 
+
+Bulgaria 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#9
+🏙️  city: 
+
+Austin, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#10
+🏙️  city: 
+
+Bangkok 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#11
+🏙️  city: 
+
+Tenerife, Canary Islands 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#12
+🏙️  city: 
+
+Warsaw 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#13
+🏙️  city: 
+
+{itemName} 
+
+🌎 country: 
+
+{itemSub} 
+
+⭐️ overall: {rating-main-score-r}/5
+💵 cost: {rating-cost-score-r}/5
+📡 internet: {rating-internet-score-r}/5
+😀 fun: {rating-fun-score-r}/5
+👮 safety: {rating-safety-score-r}/5
+
+#14
+🏙️  city: 
+
+Tbilisi 
+
+🌎 country: 
+
+Georgia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#15
+🏙️  city: 
+
+Ericeira 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 5/5
+
+#16
+🏙️  city: 
+
+Mexico City 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#17
+🏙️  city: 
+
+Kraków 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#18
+🏙️  city: 
+
+Belgrade 
+
+🌎 country: 
+
+Serbia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#19
+🏙️  city: 
+
+Phuket 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#20
+🏙️  city: 
+
+Singapore 
+
+🌎 country: 
+
+Singapore 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#21
+🏙️  city: 
+
+Atlanta, GA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#22
+🏙️  city: 
+
+Toronto 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#23
+🏙️  city: 
+
+Madrid 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#24
+🏙️  city: 
+
+Madeira 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 5/5
+
+#25
+🏙️  city: 
+
+Seseh, Bali 
+
+🌎 country: 
+
+Indonesia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 5/5
+
+#26
+🏙️  city: 
+
+Stockholm 
+
+🌎 country: 
+
+Sweden 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#27
+🏙️  city: 
+
+Zagreb 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#28
+🏙️  city: 
+
+Ko Pha Ngan 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#29
+🏙️  city: 
+
+Melbourne 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#30
+🏙️  city: 
+
+Bucharest 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#31
+🏙️  city: 
+
+Berlin 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#32
+🏙️  city: 
+
+Valencia 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#33
+🏙️  city: 
+
+Timisoara 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#34
+🏙️  city: 
+
+Bengaluru 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#35
+🏙️  city: 
+
+Prague 
+
+🌎 country: 
+
+Czechia 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#36
+🏙️  city: 
+
+Bansko 
+
+🌎 country: 
+
+Bulgaria 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#37
+🏙️  city: 
+
+Penang 
+
+🌎 country: 
+
+Malaysia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#38
+🏙️  city: 
+
+Costa da Caparica 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 5/5
+
+#39
+🏙️  city: 
+
+Ljubljana 
+
+🌎 country: 
+
+Slovenia 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#40
+🏙️  city: 
+
+Puerto Escondido 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#41
+🏙️  city: 
+
+New York City, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#42
+🏙️  city: 
+
+Kuala Lumpur 
+
+🌎 country: 
+
+Malaysia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#43
+🏙️  city: 
+
+Barcelona 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#44
+🏙️  city: 
+
+Copenhagen 
+
+🌎 country: 
+
+Denmark 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#45
+🏙️  city: 
+
+Mumbai 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#46
+🏙️  city: 
+
+Cluj 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#47
+🏙️  city: 
+
+Wrocław 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#48
+🏙️  city: 
+
+Brasov 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#49
+🏙️  city: 
+
+Vienna 
+
+🌎 country: 
+
+Austria 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#50
+🏙️  city: 
+
+Groningen 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#51
+🏙️  city: 
+
+Lagos, Algarve 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 5/5
+
+#52
+🏙️  city: 
+
+Auckland 
+
+🌎 country: 
+
+New Zealand 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#53
+🏙️  city: 
+
+Honolulu, Hawaii 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#54
+🏙️  city: 
+
+Dresden 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#55
+🏙️  city: 
+
+London 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#56
+🏙️  city: 
+
+Varna 
+
+🌎 country: 
+
+Bulgaria 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#57
+🏙️  city: 
+
+Wellington 
+
+🌎 country: 
+
+New Zealand 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#58
+🏙️  city: 
+
+Tallinn 
+
+🌎 country: 
+
+Estonia 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#59
+🏙️  city: 
+
+Portimão 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 5/5
+
+#60
+🏙️  city: 
+
+Los Angeles, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#61
+🏙️  city: 
+
+Montreal 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#62
+🏙️  city: 
+
+Taipei 
+
+🌎 country: 
+
+Taiwan 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 2/5
+
+#63
+🏙️  city: 
+
+Vancouver 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#64
+🏙️  city: 
+
+Amsterdam 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#65
+🏙️  city: 
+
+Tucson, AZ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#66
+🏙️  city: 
+
+Tokyo 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#67
+🏙️  city: 
+
+Sydney 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#68
+🏙️  city: 
+
+Gdansk 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#69
+🏙️  city: 
+
+San Francisco, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#70
+🏙️  city: 
+
+Jeju Island 
+
+🌎 country: 
+
+South Korea 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#71
+🏙️  city: 
+
+Las Vegas, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#72
+🏙️  city: 
+
+Riga 
+
+🌎 country: 
+
+Latvia 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#73
+🏙️  city: 
+
+Fuerteventura, Canary Islands 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 5/5
+
+#74
+🏙️  city: 
+
+Novi Sad 
+
+🌎 country: 
+
+Serbia 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#75
+🏙️  city: 
+
+Leipzig 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#76
+🏙️  city: 
+
+Denver, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#77
+🏙️  city: 
+
+Dallas, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#78
+🏙️  city: 
+
+Hong Kong 
+
+🌎 country: 
+
+Hong Kong 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#79
+🏙️  city: 
+
+Vilnius 
+
+🌎 country: 
+
+Lithuania 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#80
+🏙️  city: 
+
+Minneapolis, MN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#81
+🏙️  city: 
+
+Washington, DC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#82
+🏙️  city: 
+
+Canggu, Bali 
+
+🌎 country: 
+
+Indonesia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#83
+🏙️  city: 
+
+Seattle, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#84
+🏙️  city: 
+
+Coimbra 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#85
+🏙️  city: 
+
+Munich 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#86
+🏙️  city: 
+
+Ploiesti 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#87
+🏙️  city: 
+
+Tampa, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#88
+🏙️  city: 
+
+Kansas City, MO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#89
+🏙️  city: 
+
+Nairobi 
+
+🌎 country: 
+
+Kenya 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 2/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#90
+🏙️  city: 
+
+Victoria 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#91
+🏙️  city: 
+
+Braga 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#92
+🏙️  city: 
+
+Plovdiv 
+
+🌎 country: 
+
+Bulgaria 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#93
+🏙️  city: 
+
+Szczecin 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#94
+🏙️  city: 
+
+Constanta 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#95
+🏙️  city: 
+
+Paris 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#96
+🏙️  city: 
+
+Krabi 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#97
+🏙️  city: 
+
+Brno 
+
+🌎 country: 
+
+Czechia 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#98
+🏙️  city: 
+
+Aberdeen 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#99
+🏙️  city: 
+
+Azores 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 5/5
+
+#100
+🏙️  city: 
+
+Chisinau 
+
+🌎 country: 
+
+Moldova 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 2/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#101
+🏙️  city: 
+
+Seville 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#102
+🏙️  city: 
+
+Kotor 
+
+🌎 country: 
+
+Montenegro 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#103
+🏙️  city: 
+
+Bratislava 
+
+🌎 country: 
+
+Slovakia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#104
+🏙️  city: 
+
+Quebec City 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#105
+🏙️  city: 
+
+Poznan 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#106
+🏙️  city: 
+
+Thessaloniki 
+
+🌎 country: 
+
+Greece 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#107
+🏙️  city: 
+
+Boston, MA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#108
+🏙️  city: 
+
+Chicago, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#109
+🏙️  city: 
+
+Winnipeg 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#110
+🏙️  city: 
+
+Chatham 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#111
+🏙️  city: 
+
+New Orleans, LA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#112
+🏙️  city: 
+
+Busan 
+
+🌎 country: 
+
+South Korea 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#113
+🏙️  city: 
+
+Ottawa 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 4/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#114
+🏙️  city: 
+
+Galapagos Islands 
+
+🌎 country: 
+
+Ecuador 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#115
+🏙️  city: 
+
+Perth 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#116
+🏙️  city: 
+
+Manchester 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#117
+🏙️  city: 
+
+Katowice 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#118
+🏙️  city: 
+
+Nis 
+
+🌎 country: 
+
+Serbia 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#119
+🏙️  city: 
+
+Santiago 
+
+🌎 country: 
+
+Chile 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#120
+🏙️  city: 
+
+Lodz 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#121
+🏙️  city: 
+
+Lake Balaton 
+
+🌎 country: 
+
+Hungary 
+
+⭐️ overall: 4/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#122
+🏙️  city: 
+
+Frankfurt 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#123
+🏙️  city: 
+
+Madison, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#124
+🏙️  city: 
+
+Cologne 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 4/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#125
+🏙️  city: 
+
+Split 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 4/5
+💵 cost: 2/5
+📡 internet: 2/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#126
+🏙️  city: 
+
+Edmonton 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#127
+🏙️  city: 
+
+Hilo, Hawaii 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#128
+🏙️  city: 
+
+Stuttgart 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#129
+🏙️  city: 
+
+Hamburg 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#130
+🏙️  city: 
+
+Liverpool 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#131
+🏙️  city: 
+
+Pattaya 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#132
+🏙️  city: 
+
+San Antonio, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#133
+🏙️  city: 
+
+Saskatoon 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#134
+🏙️  city: 
+
+Skopje 
+
+🌎 country: 
+
+North Macedonia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#135
+🏙️  city: 
+
+Burgas 
+
+🌎 country: 
+
+Bulgaria 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#136
+🏙️  city: 
+
+Palermo 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#137
+🏙️  city: 
+
+San Diego, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#138
+🏙️  city: 
+
+Orlando, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#139
+🏙️  city: 
+
+Brussels 
+
+🌎 country: 
+
+Belgium 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#140
+🏙️  city: 
+
+Osijek 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#141
+🏙️  city: 
+
+Calgary 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#142
+🏙️  city: 
+
+Christchurch 
+
+🌎 country: 
+
+New Zealand 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#143
+🏙️  city: 
+
+Lille 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#144
+🏙️  city: 
+
+Mysore 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#145
+🏙️  city: 
+
+Rotterdam 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#146
+🏙️  city: 
+
+Aachen 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#147
+🏙️  city: 
+
+Newcastle Upon Tyne 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#148
+🏙️  city: 
+
+Goa 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#149
+🏙️  city: 
+
+Kota Kinabalu 
+
+🌎 country: 
+
+Malaysia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#150
+🏙️  city: 
+
+Dusseldorf 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#151
+🏙️  city: 
+
+Nashville, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#152
+🏙️  city: 
+
+Lyon 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#153
+🏙️  city: 
+
+Brampton 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#154
+🏙️  city: 
+
+Hyderabad 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#155
+🏙️  city: 
+
+Brownsville, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#156
+🏙️  city: 
+
+Pune 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#157
+🏙️  city: 
+
+Beaumont, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#158
+🏙️  city: 
+
+Gainesville, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#159
+🏙️  city: 
+
+Regina 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#160
+🏙️  city: 
+
+Toulouse 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#161
+🏙️  city: 
+
+Craiova 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#162
+🏙️  city: 
+
+Queenstown 
+
+🌎 country: 
+
+New Zealand 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#163
+🏙️  city: 
+
+Kochi 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#164
+🏙️  city: 
+
+Brisbane 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#165
+🏙️  city: 
+
+Columbus, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#166
+🏙️  city: 
+
+Salt Lake City, UT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#167
+🏙️  city: 
+
+Iasi 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#168
+🏙️  city: 
+
+Kosice 
+
+🌎 country: 
+
+Slovakia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#169
+🏙️  city: 
+
+Nantes 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#170
+🏙️  city: 
+
+Osaka 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#171
+🏙️  city: 
+
+McAllen, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#172
+🏙️  city: 
+
+Waterloo, IA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#173
+🏙️  city: 
+
+Helsinki 
+
+🌎 country: 
+
+Finland 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#174
+🏙️  city: 
+
+Nuremberg 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#175
+🏙️  city: 
+
+Fukuoka 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#176
+🏙️  city: 
+
+Thane 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#177
+🏙️  city: 
+
+San Cristóbal de las Casas 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#178
+🏙️  city: 
+
+Ogden, UT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#179
+🏙️  city: 
+
+Madurai 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#180
+🏙️  city: 
+
+Aveiro 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#181
+🏙️  city: 
+
+Faro 
+
+🌎 country: 
+
+Portugal 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 1/5
+👮 safety: 5/5
+
+#182
+🏙️  city: 
+
+Kanpur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#183
+🏙️  city: 
+
+Cairns 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#184
+🏙️  city: 
+
+Halifax 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#185
+🏙️  city: 
+
+Kaohsiung 
+
+🌎 country: 
+
+Taiwan 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 2/5
+
+#186
+🏙️  city: 
+
+Paphos 
+
+🌎 country: 
+
+Cyprus 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 2/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#187
+🏙️  city: 
+
+Malappuram 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#188
+🏙️  city: 
+
+Kozhikode 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#189
+🏙️  city: 
+
+Montgomery, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#190
+🏙️  city: 
+
+Sacramento, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#191
+🏙️  city: 
+
+Ko Lanta 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#192
+🏙️  city: 
+
+Nakhon Ratchasima 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#193
+🏙️  city: 
+
+Richmond, VA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#194
+🏙️  city: 
+
+Hagen 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 5/5
+
+#195
+🏙️  city: 
+
+Indianapolis, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#196
+🏙️  city: 
+
+Tulsa, OK 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#197
+🏙️  city: 
+
+Lublin 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#198
+🏙️  city: 
+
+Fayetteville, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#199
+🏙️  city: 
+
+Alicante 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#200
+🏙️  city: 
+
+Cedar Rapids, IA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#201
+🏙️  city: 
+
+Dubrovnik 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#202
+🏙️  city: 
+
+Evansville, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#203
+🏙️  city: 
+
+Grande Prairie 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#204
+🏙️  city: 
+
+Hua Hin 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#205
+🏙️  city: 
+
+Bordeaux 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#206
+🏙️  city: 
+
+Surrey 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#207
+🏙️  city: 
+
+Hull 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#208
+🏙️  city: 
+
+Thiruvananthapuram 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#209
+🏙️  city: 
+
+Dublin 
+
+🌎 country: 
+
+Ireland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#210
+🏙️  city: 
+
+Hobart 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#211
+🏙️  city: 
+
+Jena 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#212
+🏙️  city: 
+
+Chiang Rai 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#213
+🏙️  city: 
+
+Pai 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#214
+🏙️  city: 
+
+Springfield, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#215
+🏙️  city: 
+
+Panama City 
+
+🌎 country: 
+
+Panama 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 2/5
+
+#216
+🏙️  city: 
+
+Portland, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#217
+🏙️  city: 
+
+Leicester 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#218
+🏙️  city: 
+
+Langkawi 
+
+🌎 country: 
+
+Malaysia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#219
+🏙️  city: 
+
+Fredericton 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#220
+🏙️  city: 
+
+Little Rock, AR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#221
+🏙️  city: 
+
+Lexington, KY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#222
+🏙️  city: 
+
+Kennewick, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#223
+🏙️  city: 
+
+Jacksonville, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#224
+🏙️  city: 
+
+Port Arthur, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#225
+🏙️  city: 
+
+Fortaleza 
+
+🌎 country: 
+
+Brazil 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 2/5
+
+#226
+🏙️  city: 
+
+Salem, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#227
+🏙️  city: 
+
+Gothenburg 
+
+🌎 country: 
+
+Sweden 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#228
+🏙️  city: 
+
+Naha, Okinawa 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#229
+🏙️  city: 
+
+Mission, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#230
+🏙️  city: 
+
+Hubli 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#231
+🏙️  city: 
+
+Chico, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#232
+🏙️  city: 
+
+Mamaia 
+
+🌎 country: 
+
+Romania 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#233
+🏙️  city: 
+
+Iowa City, IA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#234
+🏙️  city: 
+
+Karlsruhe 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#235
+🏙️  city: 
+
+Charlotte, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#236
+🏙️  city: 
+
+Syracuse, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#237
+🏙️  city: 
+
+Daejeon 
+
+🌎 country: 
+
+South Korea 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#238
+🏙️  city: 
+
+Dubuque, IA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#239
+🏙️  city: 
+
+Nashik 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#240
+🏙️  city: 
+
+Malmö 
+
+🌎 country: 
+
+Sweden 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#241
+🏙️  city: 
+
+Montego Bay 
+
+🌎 country: 
+
+Jamaica 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 2/5
+
+#242
+🏙️  city: 
+
+Tainan 
+
+🌎 country: 
+
+Taiwan 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 2/5
+
+#243
+🏙️  city: 
+
+Houston, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#244
+🏙️  city: 
+
+Rijeka 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#245
+🏙️  city: 
+
+Lawton, OK 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#246
+🏙️  city: 
+
+Oshawa 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#247
+🏙️  city: 
+
+Puerto Vallarta 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#248
+🏙️  city: 
+
+Kokomo, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#249
+🏙️  city: 
+
+Terre Haute, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#250
+🏙️  city: 
+
+Rochester, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#251
+🏙️  city: 
+
+Owensboro, KY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#252
+🏙️  city: 
+
+Kaunas 
+
+🌎 country: 
+
+Lithuania 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#253
+🏙️  city: 
+
+Kalyan 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#254
+🏙️  city: 
+
+Harlingen, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#255
+🏙️  city: 
+
+Bakersfield, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#256
+🏙️  city: 
+
+Youngstown, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#257
+🏙️  city: 
+
+Lincoln, NE 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#258
+🏙️  city: 
+
+Tyler, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#259
+🏙️  city: 
+
+Richland, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#260
+🏙️  city: 
+
+Šumperk 
+
+🌎 country: 
+
+Czechia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 5/5
+
+#261
+🏙️  city: 
+
+Johnson City, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#262
+🏙️  city: 
+
+Fargo, ND 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#263
+🏙️  city: 
+
+Rochester, MN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#264
+🏙️  city: 
+
+Sandpoint, ID 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#265
+🏙️  city: 
+
+North Little Rock, AR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#266
+🏙️  city: 
+
+Oklahoma City, OK 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#267
+🏙️  city: 
+
+Ghent 
+
+🌎 country: 
+
+Belgium 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#268
+🏙️  city: 
+
+Lancaster, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#269
+🏙️  city: 
+
+Oakland, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#270
+🏙️  city: 
+
+Nijmegen 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#271
+🏙️  city: 
+
+Columbus, GA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#272
+🏙️  city: 
+
+Clarksville, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#273
+🏙️  city: 
+
+Montanita 
+
+🌎 country: 
+
+Ecuador 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#274
+🏙️  city: 
+
+Huddersfield 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#275
+🏙️  city: 
+
+Bismarck, ND 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#276
+🏙️  city: 
+
+Peoria, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#277
+🏙️  city: 
+
+Roanoke, VA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#278
+🏙️  city: 
+
+Greensboro, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#279
+🏙️  city: 
+
+Glasgow 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#280
+🏙️  city: 
+
+Rhodes 
+
+🌎 country: 
+
+Greece 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#281
+🏙️  city: 
+
+Antwerp 
+
+🌎 country: 
+
+Belgium 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#282
+🏙️  city: 
+
+Corvallis, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#283
+🏙️  city: 
+
+Bhubaneswar 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#284
+🏙️  city: 
+
+Durg 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#285
+🏙️  city: 
+
+Augusta, GA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#286
+🏙️  city: 
+
+Malaga 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#287
+🏙️  city: 
+
+Tirupur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 1/5
+👮 safety: 4/5
+
+#288
+🏙️  city: 
+
+Gwangju 
+
+🌎 country: 
+
+South Korea 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#289
+🏙️  city: 
+
+Amarillo, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#290
+🏙️  city: 
+
+Palm Coast, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#291
+🏙️  city: 
+
+Laredo, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#292
+🏙️  city: 
+
+Minca 
+
+🌎 country: 
+
+Colombia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 1/5
+
+#293
+🏙️  city: 
+
+Conroe, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#294
+🏙️  city: 
+
+Billings, MT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#295
+🏙️  city: 
+
+Adelaide 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#296
+🏙️  city: 
+
+Raleigh, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#297
+🏙️  city: 
+
+Ipoh 
+
+🌎 country: 
+
+Malaysia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#298
+🏙️  city: 
+
+Joplin, MO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#299
+🏙️  city: 
+
+La Paz 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#300
+🏙️  city: 
+
+Stockton, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#301
+🏙️  city: 
+
+Moncton 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#302
+🏙️  city: 
+
+Aurora, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#303
+🏙️  city: 
+
+Cincinnati, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#304
+🏙️  city: 
+
+Yakima, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#305
+🏙️  city: 
+
+Longview, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#306
+🏙️  city: 
+
+Podgorica 
+
+🌎 country: 
+
+Montenegro 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#307
+🏙️  city: 
+
+Wollongong 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#308
+🏙️  city: 
+
+Tel Aviv 
+
+🌎 country: 
+
+Israel 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#309
+🏙️  city: 
+
+Vasai 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#310
+🏙️  city: 
+
+Southampton 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#311
+🏙️  city: 
+
+Louisville, KY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#312
+🏙️  city: 
+
+Edinburg, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#313
+🏙️  city: 
+
+Espoo 
+
+🌎 country: 
+
+Finland 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#314
+🏙️  city: 
+
+Bar 
+
+🌎 country: 
+
+Montenegro 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#315
+🏙️  city: 
+
+Pharr, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#316
+🏙️  city: 
+
+Suwon 
+
+🌎 country: 
+
+South Korea 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#317
+🏙️  city: 
+
+Edinburgh 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#318
+🏙️  city: 
+
+Daegu 
+
+🌎 country: 
+
+South Korea 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#319
+🏙️  city: 
+
+Rocky Mount, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#320
+🏙️  city: 
+
+Topeka, KS 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#321
+🏙️  city: 
+
+Grenoble 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#322
+🏙️  city: 
+
+Turku 
+
+🌎 country: 
+
+Finland 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#323
+🏙️  city: 
+
+Davenport, IA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#324
+🏙️  city: 
+
+Surat 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#325
+🏙️  city: 
+
+Palmdale, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#326
+🏙️  city: 
+
+Burlington, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#327
+🏙️  city: 
+
+Boise, ID 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#328
+🏙️  city: 
+
+Bossier City, LA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#329
+🏙️  city: 
+
+Ko Phi Phi 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#330
+🏙️  city: 
+
+Jonesboro, AR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#331
+🏙️  city: 
+
+Las Cruces, NM 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#332
+🏙️  city: 
+
+Merced, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#333
+🏙️  city: 
+
+Ao Nang 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#334
+🏙️  city: 
+
+La Serena 
+
+🌎 country: 
+
+Chile 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 2/5
+😀 fun: 0/5
+👮 safety: 3/5
+
+#335
+🏙️  city: 
+
+Decatur, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#336
+🏙️  city: 
+
+Ko Chang 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#337
+🏙️  city: 
+
+Macon, GA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#338
+🏙️  city: 
+
+Bristol 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#339
+🏙️  city: 
+
+Columbia, MO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#340
+🏙️  city: 
+
+Philadelphia, PA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#341
+🏙️  city: 
+
+Lake Charles, LA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#342
+🏙️  city: 
+
+Buffalo, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#343
+🏙️  city: 
+
+Victoria, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#344
+🏙️  city: 
+
+Conway, AR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#345
+🏙️  city: 
+
+Warner Robins, GA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#346
+🏙️  city: 
+
+Tsushima Island 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#347
+🏙️  city: 
+
+Pittsburgh, PA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#348
+🏙️  city: 
+
+Sliema 
+
+🌎 country: 
+
+Malta 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 5/5
+
+#349
+🏙️  city: 
+
+Kingsport, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#350
+🏙️  city: 
+
+Johor Bahru 
+
+🌎 country: 
+
+Malaysia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#351
+🏙️  city: 
+
+Birmingham, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#352
+🏙️  city: 
+
+Visalia, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#353
+🏙️  city: 
+
+Coimbatore 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#354
+🏙️  city: 
+
+Antananarivo 
+
+🌎 country: 
+
+Madagascar 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 5/5
+
+#355
+🏙️  city: 
+
+Bedford, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#356
+🏙️  city: 
+
+Guelph 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#357
+🏙️  city: 
+
+Zadar 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#358
+🏙️  city: 
+
+Oregon City, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#359
+🏙️  city: 
+
+Muncie, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#360
+🏙️  city: 
+
+Okinawa City, Okinawa 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#361
+🏙️  city: 
+
+Kearney, NE 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#362
+🏙️  city: 
+
+Wanaka 
+
+🌎 country: 
+
+New Zealand 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#363
+🏙️  city: 
+
+Chattanooga, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#364
+🏙️  city: 
+
+Zurich 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#365
+🏙️  city: 
+
+Marbella 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#366
+🏙️  city: 
+
+Colorado Springs, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#367
+🏙️  city: 
+
+Torshavn, Faroe Islands 
+
+🌎 country: 
+
+Denmark 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#368
+🏙️  city: 
+
+Bielefeld 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#369
+🏙️  city: 
+
+Bremen 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#370
+🏙️  city: 
+
+Padova 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#371
+🏙️  city: 
+
+Raipur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#372
+🏙️  city: 
+
+Kyoto 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#373
+🏙️  city: 
+
+Logan, UT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#374
+🏙️  city: 
+
+Medford, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#375
+🏙️  city: 
+
+Reading 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#376
+🏙️  city: 
+
+Delano, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#377
+🏙️  city: 
+
+Hof 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#378
+🏙️  city: 
+
+Champaign, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#379
+🏙️  city: 
+
+Great Falls, MT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#380
+🏙️  city: 
+
+Sioux Falls, SD 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#381
+🏙️  city: 
+
+Lethbridge 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#382
+🏙️  city: 
+
+Melbourne, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#383
+🏙️  city: 
+
+Malacca 
+
+🌎 country: 
+
+Malaysia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#384
+🏙️  city: 
+
+Porterville, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#385
+🏙️  city: 
+
+Tulare, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#386
+🏙️  city: 
+
+Vadodara 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#387
+🏙️  city: 
+
+Springdale, AR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#388
+🏙️  city: 
+
+Northampton 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#389
+🏙️  city: 
+
+Barrie 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#390
+🏙️  city: 
+
+St. Louis, MO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#391
+🏙️  city: 
+
+Jyvaskyla 
+
+🌎 country: 
+
+Finland 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#392
+🏙️  city: 
+
+Flint, MI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#393
+🏙️  city: 
+
+Graz 
+
+🌎 country: 
+
+Austria 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#394
+🏙️  city: 
+
+Schenectady, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#395
+🏙️  city: 
+
+Asansol 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#396
+🏙️  city: 
+
+Jacksonville, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#397
+🏙️  city: 
+
+Birmingham 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#398
+🏙️  city: 
+
+Toledo, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#399
+🏙️  city: 
+
+Dothan, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#400
+🏙️  city: 
+
+Vijayawada 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#401
+🏙️  city: 
+
+Reykjavik 
+
+🌎 country: 
+
+Iceland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#402
+🏙️  city: 
+
+Green Bay, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#403
+🏙️  city: 
+
+Grand Forks, ND 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#404
+🏙️  city: 
+
+Wichita, KS 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#405
+🏙️  city: 
+
+Dortmund 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#406
+🏙️  city: 
+
+Scranton, PA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#407
+🏙️  city: 
+
+Fort Wayne, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#408
+🏙️  city: 
+
+Fresno, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#409
+🏙️  city: 
+
+Bloomington, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#410
+🏙️  city: 
+
+Lubbock, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#411
+🏙️  city: 
+
+San Pedro de Atacama 
+
+🌎 country: 
+
+Chile 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#412
+🏙️  city: 
+
+Bologna 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#413
+🏙️  city: 
+
+Eau Claire, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#414
+🏙️  city: 
+
+Victorville, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#415
+🏙️  city: 
+
+Joliet, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#416
+🏙️  city: 
+
+Leiden 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#417
+🏙️  city: 
+
+Jamshedpur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#418
+🏙️  city: 
+
+Providence, RI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#419
+🏙️  city: 
+
+Port St. Lucie, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#420
+🏙️  city: 
+
+Milan 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#421
+🏙️  city: 
+
+Dhanbad 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#422
+🏙️  city: 
+
+Fairfield, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#423
+🏙️  city: 
+
+Jackson, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#424
+🏙️  city: 
+
+Rzeszow 
+
+🌎 country: 
+
+Poland 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#425
+🏙️  city: 
+
+Shreveport, LA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#426
+🏙️  city: 
+
+Javea 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#427
+🏙️  city: 
+
+St. Joseph, MO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#428
+🏙️  city: 
+
+Genoa 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#429
+🏙️  city: 
+
+Galway 
+
+🌎 country: 
+
+Ireland 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#430
+🏙️  city: 
+
+Bowling Green, KY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#431
+🏙️  city: 
+
+Cabo San Lucas 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#432
+🏙️  city: 
+
+Redding, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#433
+🏙️  city: 
+
+Bridgeton, MO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#434
+🏙️  city: 
+
+Lake Tahoe, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#435
+🏙️  city: 
+
+Janesville, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#436
+🏙️  city: 
+
+Ko Lipe 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#437
+🏙️  city: 
+
+Utrecht 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#438
+🏙️  city: 
+
+Almere 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#439
+🏙️  city: 
+
+Kollam 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#440
+🏙️  city: 
+
+San Juan 
+
+🌎 country: 
+
+Puerto Rico 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#441
+🏙️  city: 
+
+Temple, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#442
+🏙️  city: 
+
+Ashland, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#443
+🏙️  city: 
+
+Varanasi 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#444
+🏙️  city: 
+
+Palm Bay, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#445
+🏙️  city: 
+
+Oslo 
+
+🌎 country: 
+
+Norway 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#446
+🏙️  city: 
+
+Sioux City, IA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#447
+🏙️  city: 
+
+Fort Lauderdale, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#448
+🏙️  city: 
+
+Indore 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#449
+🏙️  city: 
+
+Mobile, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#450
+🏙️  city: 
+
+Kitakyushu 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#451
+🏙️  city: 
+
+Apple Valley, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#452
+🏙️  city: 
+
+Oxford 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#453
+🏙️  city: 
+
+Nagasaki 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 5/5
+
+#454
+🏙️  city: 
+
+Tallahassee, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#455
+🏙️  city: 
+
+Asheville, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#456
+🏙️  city: 
+
+Weifang 
+
+🌎 country: 
+
+China 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#457
+🏙️  city: 
+
+Udon Thani 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#458
+🏙️  city: 
+
+Kannur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#459
+🏙️  city: 
+
+Abbotsford 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#460
+🏙️  city: 
+
+Norwich 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#461
+🏙️  city: 
+
+Grand Junction, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#462
+🏙️  city: 
+
+Leuven 
+
+🌎 country: 
+
+Belgium 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#463
+🏙️  city: 
+
+San Jose, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#464
+🏙️  city: 
+
+Valparaíso 
+
+🌎 country: 
+
+Chile 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#465
+🏙️  city: 
+
+Montpellier 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#466
+🏙️  city: 
+
+Bath 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#467
+🏙️  city: 
+
+Killeen, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#468
+🏙️  city: 
+
+Fort Smith, AR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#469
+🏙️  city: 
+
+Allentown, PA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#470
+🏙️  city: 
+
+Geneva 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#471
+🏙️  city: 
+
+Pocatello, ID 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#472
+🏙️  city: 
+
+Windsor 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#473
+🏙️  city: 
+
+Hannover 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#474
+🏙️  city: 
+
+Turlock, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#475
+🏙️  city: 
+
+Agra 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#476
+🏙️  city: 
+
+Oshkosh, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#477
+🏙️  city: 
+
+Bloomington, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#478
+🏙️  city: 
+
+Guwahati 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#479
+🏙️  city: 
+
+Kobe 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#480
+🏙️  city: 
+
+Casper, WY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#481
+🏙️  city: 
+
+Chania, Crete 
+
+🌎 country: 
+
+Greece 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#482
+🏙️  city: 
+
+Normal, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#483
+🏙️  city: 
+
+Albany, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#484
+🏙️  city: 
+
+Taos, NM 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#485
+🏙️  city: 
+
+Iquique 
+
+🌎 country: 
+
+Chile 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#486
+🏙️  city: 
+
+Strasbourg 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#487
+🏙️  city: 
+
+Omaha, NE 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#488
+🏙️  city: 
+
+Pristina 
+
+🌎 country: 
+
+Kosovo 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#489
+🏙️  city: 
+
+Des Moines, IA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#490
+🏙️  city: 
+
+Trondheim 
+
+🌎 country: 
+
+Norway 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#491
+🏙️  city: 
+
+Tartu 
+
+🌎 country: 
+
+Estonia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#492
+🏙️  city: 
+
+Erie, PA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#493
+🏙️  city: 
+
+Elkhart, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#494
+🏙️  city: 
+
+Viña del Mar 
+
+🌎 country: 
+
+Chile 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#495
+🏙️  city: 
+
+Cordoba 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#496
+🏙️  city: 
+
+St. Cloud, MN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#497
+🏙️  city: 
+
+Appleton, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#498
+🏙️  city: 
+
+Portsmouth 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#499
+🏙️  city: 
+
+Tracy, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#500
+🏙️  city: 
+
+Thrissur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#501
+🏙️  city: 
+
+Heidelberg 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#502
+🏙️  city: 
+
+Greenville, SC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#503
+🏙️  city: 
+
+Valdosta, GA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#504
+🏙️  city: 
+
+Bethlehem, PA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#505
+🏙️  city: 
+
+Enid, OK 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#506
+🏙️  city: 
+
+Carson City, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#507
+🏙️  city: 
+
+Kitchener 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#508
+🏙️  city: 
+
+Reading, PA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#509
+🏙️  city: 
+
+Lansing, MI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#510
+🏙️  city: 
+
+Breda 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 5/5
+
+#511
+🏙️  city: 
+
+Delhi 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#512
+🏙️  city: 
+
+Baton Rouge, LA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#513
+🏙️  city: 
+
+Auburn, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#514
+🏙️  city: 
+
+Rennes 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#515
+🏙️  city: 
+
+Manteca, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#516
+🏙️  city: 
+
+Intag Valley 
+
+🌎 country: 
+
+Ecuador 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#517
+🏙️  city: 
+
+Lanzarote, Canary Islands 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 5/5
+
+#518
+🏙️  city: 
+
+Huntsville, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#519
+🏙️  city: 
+
+Budva 
+
+🌎 country: 
+
+Montenegro 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#520
+🏙️  city: 
+
+Utica, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#521
+🏙️  city: 
+
+Klaipeda 
+
+🌎 country: 
+
+Lithuania 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#522
+🏙️  city: 
+
+Canton, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#523
+🏙️  city: 
+
+Urumqi 
+
+🌎 country: 
+
+China 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#524
+🏙️  city: 
+
+Modesto, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#525
+🏙️  city: 
+
+Chennai 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#526
+🏙️  city: 
+
+Florence 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#527
+🏙️  city: 
+
+Zwolle 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#528
+🏙️  city: 
+
+Yuma, AZ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#529
+🏙️  city: 
+
+Srinagar 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#530
+🏙️  city: 
+
+Norfolk, VA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#531
+🏙️  city: 
+
+Grand Rapids, MI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#532
+🏙️  city: 
+
+Darmstadt 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#533
+🏙️  city: 
+
+Spokane, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#534
+🏙️  city: 
+
+St. George, UT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#535
+🏙️  city: 
+
+Hemet, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#536
+🏙️  city: 
+
+Mallorca 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 5/5
+
+#537
+🏙️  city: 
+
+Hesperia, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#538
+🏙️  city: 
+
+Sendai 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#539
+🏙️  city: 
+
+Detroit, MI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#540
+🏙️  city: 
+
+Elgin, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#541
+🏙️  city: 
+
+Yuba City, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#542
+🏙️  city: 
+
+Lynchburg, VA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#543
+🏙️  city: 
+
+Ann Arbor, MI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#544
+🏙️  city: 
+
+Bellingham, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#545
+🏙️  city: 
+
+Bari 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#546
+🏙️  city: 
+
+Port of Spain 
+
+🌎 country: 
+
+Trinidad and Tobago 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 2/5
+
+#547
+🏙️  city: 
+
+Beacon, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#548
+🏙️  city: 
+
+Trier 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#549
+🏙️  city: 
+
+Pisa 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#550
+🏙️  city: 
+
+Pasco, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#551
+🏙️  city: 
+
+Spokane Valley, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#552
+🏙️  city: 
+
+Phoenix, AZ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#553
+🏙️  city: 
+
+Gwalior 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#554
+🏙️  city: 
+
+Rovaniemi 
+
+🌎 country: 
+
+Finland 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#555
+🏙️  city: 
+
+Kassel 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#556
+🏙️  city: 
+
+A Coruna 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#557
+🏙️  city: 
+
+Grand Island, NE 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#558
+🏙️  city: 
+
+Ocala, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#559
+🏙️  city: 
+
+Bareilly 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#560
+🏙️  city: 
+
+Oulu 
+
+🌎 country: 
+
+Finland 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#561
+🏙️  city: 
+
+Minot, ND 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#562
+🏙️  city: 
+
+Lawrence, KS 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#563
+🏙️  city: 
+
+Varkala 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#564
+🏙️  city: 
+
+La Crosse, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#565
+🏙️  city: 
+
+Luton 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#566
+🏙️  city: 
+
+Fort McMurray 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#567
+🏙️  city: 
+
+Bridgeport, CT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#568
+🏙️  city: 
+
+Zhoukou 
+
+🌎 country: 
+
+China 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#569
+🏙️  city: 
+
+Rockford, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#570
+🏙️  city: 
+
+Kolkata 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#571
+🏙️  city: 
+
+Bern 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#572
+🏙️  city: 
+
+Pueblo, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#573
+🏙️  city: 
+
+Coventry 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#574
+🏙️  city: 
+
+Bryan, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#575
+🏙️  city: 
+
+Milwaukee, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#576
+🏙️  city: 
+
+Hvar 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#577
+🏙️  city: 
+
+Rogers, AR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#578
+🏙️  city: 
+
+Winston, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#579
+🏙️  city: 
+
+Nottingham 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#580
+🏙️  city: 
+
+Anderson, IN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#581
+🏙️  city: 
+
+Olympia, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#582
+🏙️  city: 
+
+Idaho Falls, ID 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#583
+🏙️  city: 
+
+Henderson, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#584
+🏙️  city: 
+
+Sanur, Bali 
+
+🌎 country: 
+
+Indonesia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#585
+🏙️  city: 
+
+High Point, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#586
+🏙️  city: 
+
+Wichita Falls, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#587
+🏙️  city: 
+
+Cambridge 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#588
+🏙️  city: 
+
+Dunedin 
+
+🌎 country: 
+
+New Zealand 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#589
+🏙️  city: 
+
+Allahabad 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#590
+🏙️  city: 
+
+Wilmington, NC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#591
+🏙️  city: 
+
+Treviso 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#592
+🏙️  city: 
+
+Ahmedabad 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#593
+🏙️  city: 
+
+Hiroshima 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#594
+🏙️  city: 
+
+Brighton 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#595
+🏙️  city: 
+
+McLeod Ganj 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#596
+🏙️  city: 
+
+Leeds 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#597
+🏙️  city: 
+
+Aalborg 
+
+🌎 country: 
+
+Denmark 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#598
+🏙️  city: 
+
+Tilburg 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#599
+🏙️  city: 
+
+Marseille 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#600
+🏙️  city: 
+
+St. Catharines 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#601
+🏙️  city: 
+
+Lelystad 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#602
+🏙️  city: 
+
+Provo, UT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#603
+🏙️  city: 
+
+Nagoya 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#604
+🏙️  city: 
+
+Isla Mujeres 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#605
+🏙️  city: 
+
+Belfast 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#606
+🏙️  city: 
+
+Erlangen 
+
+🌎 country: 
+
+Germany 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#607
+🏙️  city: 
+
+Lafayette, LA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#608
+🏙️  city: 
+
+Manhattan, KS 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#609
+🏙️  city: 
+
+Stamford, CT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#610
+🏙️  city: 
+
+Bournemouth 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#611
+🏙️  city: 
+
+Kamiyama 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#612
+🏙️  city: 
+
+Bhopal 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#613
+🏙️  city: 
+
+The Hague 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#614
+🏙️  city: 
+
+Bradenton, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#615
+🏙️  city: 
+
+Hartford, CT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#616
+🏙️  city: 
+
+Menorca, Menorca 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 5/5
+
+#617
+🏙️  city: 
+
+Naples 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#618
+🏙️  city: 
+
+Eugene, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#619
+🏙️  city: 
+
+College Station, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#620
+🏙️  city: 
+
+Avellino 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#621
+🏙️  city: 
+
+Annecy 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#622
+🏙️  city: 
+
+Jabalpur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#623
+🏙️  city: 
+
+Kagoshima 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#624
+🏙️  city: 
+
+Okayama 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#625
+🏙️  city: 
+
+Santa Barbara, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#626
+🏙️  city: 
+
+Cavtat 
+
+🌎 country: 
+
+Croatia 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#627
+🏙️  city: 
+
+Dayton, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#628
+🏙️  city: 
+
+Santa Rosa, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#629
+🏙️  city: 
+
+Lake Como 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 5/5
+
+#630
+🏙️  city: 
+
+Knoxville, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#631
+🏙️  city: 
+
+Oranjestad 
+
+🌎 country: 
+
+Aruba 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 5/5
+
+#632
+🏙️  city: 
+
+Vineland, NJ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#633
+🏙️  city: 
+
+Taichung 
+
+🌎 country: 
+
+Taiwan 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 2/5
+
+#634
+🏙️  city: 
+
+Petaluma, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#635
+🏙️  city: 
+
+Patna 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#636
+🏙️  city: 
+
+Ranchi 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#637
+🏙️  city: 
+
+Nagpur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#638
+🏙️  city: 
+
+Memphis, TN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#639
+🏙️  city: 
+
+Granada 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#640
+🏙️  city: 
+
+Yokohama 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#641
+🏙️  city: 
+
+Midland, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#642
+🏙️  city: 
+
+Casa Grande, AZ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#643
+🏙️  city: 
+
+Trieste 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#644
+🏙️  city: 
+
+Santa Fe, NM 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#645
+🏙️  city: 
+
+Manchester, NH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#646
+🏙️  city: 
+
+Aarhus 
+
+🌎 country: 
+
+Denmark 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#647
+🏙️  city: 
+
+Andorra la Vella 
+
+🌎 country: 
+
+Andorra 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 0/5
+👮 safety: 5/5
+
+#648
+🏙️  city: 
+
+Brentwood, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#649
+🏙️  city: 
+
+Cape Coral, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#650
+🏙️  city: 
+
+Aligarh 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#651
+🏙️  city: 
+
+New Haven, CT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#652
+🏙️  city: 
+
+Kelowna 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#653
+🏙️  city: 
+
+Patras 
+
+🌎 country: 
+
+Greece 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#654
+🏙️  city: 
+
+Waco, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#655
+🏙️  city: 
+
+Modena 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#656
+🏙️  city: 
+
+Kinmen 
+
+🌎 country: 
+
+Taiwan 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 1/5
+
+#657
+🏙️  city: 
+
+Waterloo 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#658
+🏙️  city: 
+
+Exeter 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#659
+🏙️  city: 
+
+Waukegan, IL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#660
+🏙️  city: 
+
+Missoula, MT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#661
+🏙️  city: 
+
+Fairfax, VA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#662
+🏙️  city: 
+
+Pensacola, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#663
+🏙️  city: 
+
+Murrieta, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#664
+🏙️  city: 
+
+Bellevue, NE 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#665
+🏙️  city: 
+
+Amritsar 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#666
+🏙️  city: 
+
+Greeley, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#667
+🏙️  city: 
+
+Pekanbaru, Sumatra 
+
+🌎 country: 
+
+Indonesia 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#668
+🏙️  city: 
+
+Ludhiana 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#669
+🏙️  city: 
+
+Moradabad 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#670
+🏙️  city: 
+
+Baltimore, MD 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#671
+🏙️  city: 
+
+Lodi, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#672
+🏙️  city: 
+
+Cork 
+
+🌎 country: 
+
+Ireland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#673
+🏙️  city: 
+
+Sayulita 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#674
+🏙️  city: 
+
+Juarez 
+
+🌎 country: 
+
+Mexico 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 4/5
+😀 fun: 1/5
+👮 safety: 2/5
+
+#675
+🏙️  city: 
+
+Nago, Okinawa 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#676
+🏙️  city: 
+
+Palo Alto, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#677
+🏙️  city: 
+
+Marysville, WA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#678
+🏙️  city: 
+
+Pamplona 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#679
+🏙️  city: 
+
+Enterprise, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#680
+🏙️  city: 
+
+Jaipur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#681
+🏙️  city: 
+
+Boulder, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#682
+🏙️  city: 
+
+Hoover, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#683
+🏙️  city: 
+
+Riverside, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#684
+🏙️  city: 
+
+Scottsdale, AZ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#685
+🏙️  city: 
+
+Whistler 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#686
+🏙️  city: 
+
+Innsbruck 
+
+🌎 country: 
+
+Austria 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#687
+🏙️  city: 
+
+Portland, ME 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#688
+🏙️  city: 
+
+Kauai, Hawaii 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#689
+🏙️  city: 
+
+Venice 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#690
+🏙️  city: 
+
+Avignon 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#691
+🏙️  city: 
+
+Harrisonburg, VA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#692
+🏙️  city: 
+
+Eindhoven 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#693
+🏙️  city: 
+
+Canberra 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#694
+🏙️  city: 
+
+Abilene, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#695
+🏙️  city: 
+
+Jarabacoa 
+
+🌎 country: 
+
+Dominican Republic 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 2/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#696
+🏙️  city: 
+
+Nice 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#697
+🏙️  city: 
+
+Oxnard, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#698
+🏙️  city: 
+
+Nanaimo 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#699
+🏙️  city: 
+
+Deventer 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#700
+🏙️  city: 
+
+York 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#701
+🏙️  city: 
+
+Rapid City, SD 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#702
+🏙️  city: 
+
+Dijon 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#703
+🏙️  city: 
+
+Bruges 
+
+🌎 country: 
+
+Belgium 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#704
+🏙️  city: 
+
+Meerut 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#705
+🏙️  city: 
+
+Ube 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#706
+🏙️  city: 
+
+Bergen 
+
+🌎 country: 
+
+Norway 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#707
+🏙️  city: 
+
+Rome 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#708
+🏙️  city: 
+
+Beaverton, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#709
+🏙️  city: 
+
+Visakhapatnam 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#710
+🏙️  city: 
+
+Salzburg 
+
+🌎 country: 
+
+Austria 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#711
+🏙️  city: 
+
+Park City, UT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#712
+🏙️  city: 
+
+Volgograd 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 2/5
+😀 fun: 2/5
+👮 safety: 2/5
+
+#713
+🏙️  city: 
+
+Key West, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#714
+🏙️  city: 
+
+Cleveland, OH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#715
+🏙️  city: 
+
+Cardiff 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#716
+🏙️  city: 
+
+Flagstaff, AZ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#717
+🏙️  city: 
+
+Anchorage, AK 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#718
+🏙️  city: 
+
+Fort Collins, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#719
+🏙️  city: 
+
+Albuquerque, NM 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#720
+🏙️  city: 
+
+Worcester, MA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#721
+🏙️  city: 
+
+Cheltenham 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#722
+🏙️  city: 
+
+Fort Myers, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#723
+🏙️  city: 
+
+Byron Bay 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#724
+🏙️  city: 
+
+Biarritz 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#725
+🏙️  city: 
+
+Monaco 
+
+🌎 country: 
+
+Monaco 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 5/5
+
+#726
+🏙️  city: 
+
+Mountain View, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#727
+🏙️  city: 
+
+Kota 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#728
+🏙️  city: 
+
+Nashua, NH 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#729
+🏙️  city: 
+
+Odessa, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#730
+🏙️  city: 
+
+Dorobō 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#731
+🏙️  city: 
+
+Tampere 
+
+🌎 country: 
+
+Finland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#732
+🏙️  city: 
+
+San Clemente, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#733
+🏙️  city: 
+
+Shrewsbury 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#734
+🏙️  city: 
+
+Bridgetown 
+
+🌎 country: 
+
+Barbados 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 2/5
+
+#735
+🏙️  city: 
+
+Newport Beach, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#736
+🏙️  city: 
+
+Sapporo 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#737
+🏙️  city: 
+
+Bend, OR 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#738
+🏙️  city: 
+
+Trento 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#739
+🏙️  city: 
+
+Chamonix 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#740
+🏙️  city: 
+
+Noida 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#741
+🏙️  city: 
+
+Monza 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#742
+🏙️  city: 
+
+Corpus Christi, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#743
+🏙️  city: 
+
+Tromso 
+
+🌎 country: 
+
+Norway 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#744
+🏙️  city: 
+
+Weston, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#745
+🏙️  city: 
+
+Charleston, SC 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#746
+🏙️  city: 
+
+Coeur d'Alene, ID 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#747
+🏙️  city: 
+
+Gibraltar 
+
+🌎 country: 
+
+Gibraltar 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#748
+🏙️  city: 
+
+San Sebastian 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#749
+🏙️  city: 
+
+Virginia Beach, VA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#750
+🏙️  city: 
+
+Menlo Park, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#751
+🏙️  city: 
+
+Monterey, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#752
+🏙️  city: 
+
+Lucknow 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#753
+🏙️  city: 
+
+Savannah, GA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#754
+🏙️  city: 
+
+Rimini 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#755
+🏙️  city: 
+
+Frederick, MD 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#756
+🏙️  city: 
+
+West Palm Beach, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#757
+🏙️  city: 
+
+Jodhpur 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#758
+🏙️  city: 
+
+Tarifa 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#759
+🏙️  city: 
+
+Ithaca, NY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#760
+🏙️  city: 
+
+Aurangabad 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#761
+🏙️  city: 
+
+Leeuwarden 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#762
+🏙️  city: 
+
+Scheveningen 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#763
+🏙️  city: 
+
+Carlsbad, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#764
+🏙️  city: 
+
+San Mateo, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#765
+🏙️  city: 
+
+Temecula, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#766
+🏙️  city: 
+
+Sheffield 
+
+🌎 country: 
+
+United Kingdom 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#767
+🏙️  city: 
+
+Alesund 
+
+🌎 country: 
+
+Norway 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#768
+🏙️  city: 
+
+Princeton, NJ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#769
+🏙️  city: 
+
+Kenosha, WI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#770
+🏙️  city: 
+
+Sparks, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#771
+🏙️  city: 
+
+Amalfi 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#772
+🏙️  city: 
+
+Santa Maria, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#773
+🏙️  city: 
+
+Vista, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#774
+🏙️  city: 
+
+Reno, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#775
+🏙️  city: 
+
+Oceanside, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#776
+🏙️  city: 
+
+Helena, MT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#777
+🏙️  city: 
+
+Darwin 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#778
+🏙️  city: 
+
+Texel 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#779
+🏙️  city: 
+
+Siena 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#780
+🏙️  city: 
+
+Daytona Beach, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#781
+🏙️  city: 
+
+Cody, WY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#782
+🏙️  city: 
+
+Saint Helier 
+
+🌎 country: 
+
+Jersey 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#783
+🏙️  city: 
+
+Sarasota, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#784
+🏙️  city: 
+
+Banff 
+
+🌎 country: 
+
+Canada 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#785
+🏙️  city: 
+
+Basel 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#786
+🏙️  city: 
+
+Turin 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#787
+🏙️  city: 
+
+Plantation, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#788
+🏙️  city: 
+
+Port Orange, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#789
+🏙️  city: 
+
+Verdi, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#790
+🏙️  city: 
+
+Doha 
+
+🌎 country: 
+
+Qatar 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 2/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#791
+🏙️  city: 
+
+Rouen 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#792
+🏙️  city: 
+
+Bozeman, MT 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#793
+🏙️  city: 
+
+Tuscaloosa, AL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#794
+🏙️  city: 
+
+Galveston, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#795
+🏙️  city: 
+
+Caye Caulker 
+
+🌎 country: 
+
+Belize 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 4/5
+😀 fun: 4/5
+👮 safety: 2/5
+
+#796
+🏙️  city: 
+
+Duluth, MN 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#797
+🏙️  city: 
+
+Lake Havasu City, AZ 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#798
+🏙️  city: 
+
+Lausanne 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#799
+🏙️  city: 
+
+Cagliari 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#800
+🏙️  city: 
+
+Chandigarh 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#801
+🏙️  city: 
+
+Haarlem 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#802
+🏙️  city: 
+
+Bonita Springs, FL 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#803
+🏙️  city: 
+
+Salem, MA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#804
+🏙️  city: 
+
+Punta Cana 
+
+🌎 country: 
+
+Dominican Republic 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 2/5
+
+#805
+🏙️  city: 
+
+Zandvoort 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#806
+🏙️  city: 
+
+Battle Creek, MI 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#807
+🏙️  city: 
+
+Ibiza 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#808
+🏙️  city: 
+
+Incline Village, NV 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#809
+🏙️  city: 
+
+Centennial, CO 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#810
+🏙️  city: 
+
+Luxembourg 
+
+🌎 country: 
+
+Luxembourg 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 5/5
+
+#811
+🏙️  city: 
+
+Bilbao 
+
+🌎 country: 
+
+Spain 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#812
+🏙️  city: 
+
+Napa, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#813
+🏙️  city: 
+
+Gurgaon 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 3/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#814
+🏙️  city: 
+
+Cheyenne, WY 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#815
+🏙️  city: 
+
+Santorini 
+
+🌎 country: 
+
+Greece 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#816
+🏙️  city: 
+
+Cannes 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 4/5
+
+#817
+🏙️  city: 
+
+Arendal 
+
+🌎 country: 
+
+Norway 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#818
+🏙️  city: 
+
+Haifa 
+
+🌎 country: 
+
+Israel 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#819
+🏙️  city: 
+
+San Angelo, TX 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#820
+🏙️  city: 
+
+Gold Coast 
+
+🌎 country: 
+
+Australia 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#821
+🏙️  city: 
+
+Gulfport, MS 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#822
+🏙️  city: 
+
+Lugano 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#823
+🏙️  city: 
+
+Arnhem 
+
+🌎 country: 
+
+Netherlands 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#824
+🏙️  city: 
+
+Indio, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#825
+🏙️  city: 
+
+Cathedral City, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#826
+🏙️  city: 
+
+Palm Desert, CA 
+
+🌎 country: 
+
+United States 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#827
+🏙️  city: 
+
+Ferrara 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#828
+🏙️  city: 
+
+San Ignacio 
+
+🌎 country: 
+
+Belize 
+
+⭐️ overall: 3/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 1/5
+
+#829
+🏙️  city: 
+
+Verona 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#830
+🏙️  city: 
+
+Rethymno 
+
+🌎 country: 
+
+Greece 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#831
+🏙️  city: 
+
+Hamilton 
+
+🌎 country: 
+
+Bermuda 
+
+⭐️ overall: 3/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#832
+🏙️  city: 
+
+Beersheba 
+
+🌎 country: 
+
+Israel 
+
+⭐️ overall: 3/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#833
+🏙️  city: 
+
+Medina 
+
+🌎 country: 
+
+Saudi Arabia 
+
+⭐️ overall: 3/5
+💵 cost: 3/5
+📡 internet: 2/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#834
+🏙️  city: 
+
+Interlaken 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#835
+🏙️  city: 
+
+Jerusalem 
+
+🌎 country: 
+
+Israel 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 4/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#836
+🏙️  city: 
+
+St. Gallen 
+
+🌎 country: 
+
+Switzerland 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#837
+🏙️  city: 
+
+Lucca 
+
+🌎 country: 
+
+Italy 
+
+⭐️ overall: 2/5
+💵 cost: 2/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#838
+🏙️  city: 
+
+Rishikesh 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 2/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#839
+🏙️  city: 
+
+Rajkot 
+
+🌎 country: 
+
+India 
+
+⭐️ overall: 2/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#840
+🏙️  city: 
+
+Mykonos 
+
+🌎 country: 
+
+Greece 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#841
+🏙️  city: 
+
+Ko Samui 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 2/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#842
+🏙️  city: 
+
+Ko Tao 
+
+🌎 country: 
+
+Thailand 
+
+⭐️ overall: 2/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#843
+🏙️  city: 
+
+Hamamatsu 
+
+🌎 country: 
+
+Japan 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 4/5
+
+#844
+🏙️  city: 
+
+Ajaccio, Corsica 
+
+🌎 country: 
+
+France 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#845
+🏙️  city: 
+
+Martinique 
+
+🌎 country: 
+
+Martinique 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 5/5
+
+#846
+🏙️  city: 
+
+Tabaranã do Norte 
+
+🌎 country: 
+
+Brazil 
+
+⭐️ overall: 2/5
+💵 cost: 1/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 1/5
+
+#847
+🏙️  city: 
+
+Kyiv 
+
+🌎 country: 
+
+Ukraine 
+
+⭐️ overall: 1/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#848
+🏙️  city: 
+
+Minsk 
+
+🌎 country: 
+
+Belarus 
+
+⭐️ overall: 1/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 4/5
+
+#849
+🏙️  city: 
+
+Lviv 
+
+🌎 country: 
+
+Ukraine 
+
+⭐️ overall: 1/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#850
+🏙️  city: 
+
+Odessa 
+
+🌎 country: 
+
+Ukraine 
+
+⭐️ overall: 1/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#851
+🏙️  city: 
+
+Moscow 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 1/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 5/5
+👮 safety: 3/5
+
+#852
+🏙️  city: 
+
+Ivano-Frankivsk 
+
+🌎 country: 
+
+Ukraine 
+
+⭐️ overall: 1/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 4/5
+
+#853
+🏙️  city: 
+
+Ufa 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#854
+🏙️  city: 
+
+Kharkiv 
+
+🌎 country: 
+
+Ukraine 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 4/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#855
+🏙️  city: 
+
+Dnipro 
+
+🌎 country: 
+
+Ukraine 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 5/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#856
+🏙️  city: 
+
+Krivoy-Rog 
+
+🌎 country: 
+
+Ukraine 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#857
+🏙️  city: 
+
+Krasnoyarsk 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 4/5
+👮 safety: 3/5
+
+#858
+🏙️  city: 
+
+Krasnodar 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#859
+🏙️  city: 
+
+Saratov 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 2/5
+
+#860
+🏙️  city: 
+
+Omsk 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#861
+🏙️  city: 
+
+Chelyabinsk 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#862
+🏙️  city: 
+
+Izhevsk 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#863
+🏙️  city: 
+
+Kaliningrad 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5
+
+#864
+🏙️  city: 
+
+Samara 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 2/5
+
+#865
+🏙️  city: 
+
+Yekaterinburg 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 3/5
+👮 safety: 3/5
+
+#866
+🏙️  city: 
+
+Tomsk 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 4/5
+📡 internet: 3/5
+😀 fun: 1/5
+👮 safety: 3/5
+
+#867
+🏙️  city: 
+
+Obninsk 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 5/5
+📡 internet: 3/5
+😀 fun: 1/5
+👮 safety: 2/5
+
+#868
+🏙️  city: 
+
+Kazan 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 2/5
+
+#869
+🏙️  city: 
+
+Nizhny 
+
+🌎 country: 
+
+Russia 
+
+⭐️ overall: 0/5
+💵 cost: 3/5
+📡 internet: 3/5
+😀 fun: 2/5
+👮 safety: 3/5

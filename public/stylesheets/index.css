@@ -1,0 +1,168 @@
+.css-button-rounded--blue {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid #1d3557;
+    background: #1d3557;
+  }
+  .css-button-rounded--blue:hover {
+    background: #fff;
+    color: #1d3557
+  }
+
+  .rounded-corner {
+    border-radius: 25px;
+  }
+
+  .rounded-corner-b {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+
+  .img-fluid {
+      height: 100%;
+      object-fit: cover;
+      border-radius: 20px;
+  }
+
+  .city-img {
+    height: 256px;
+    object-fit: cover;
+  }
+
+  .css-button-arrow--red {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    overflow: hidden;
+    border-radius: 5px;
+    border: none;
+    background-color: #e63946
+  }
+  .css-button-arrow--red:hover {
+    border-radius: 5px;
+    padding-right: 24px;
+    padding-left:8px;
+    color: white;
+  }
+  .css-button-arrow--red:hover:after {
+    opacity: 1;
+    right: 10px;
+    color: white;
+  }
+  .css-button-arrow--red:after {
+    content: "\00BB";
+    position: absolute;
+    opacity: 0;
+    font-size: 20px;
+    line-height: 40px;
+    top: 0;
+    right: -20px;
+    transition: 0.4s;
+  }
+
+  .css-button-arrow--sky {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    overflow: hidden;
+    border-radius: 5px;
+    border: none;
+    background-color: #1d3557
+  }
+  .css-button-arrow--sky:hover {
+    border-radius: 5px;
+    padding-right: 24px;
+    padding-left:8px;
+    color: #fff;
+  }
+  .css-button-arrow--sky:hover:after {
+    opacity: 1;
+    right: 10px;
+  }
+  
+  .css-button-arrow--sky:after {
+    content: "\00BB";
+    position: absolute;
+    opacity: 0;
+    font-size: 20px;
+    line-height: 40px;
+    top: 0;
+    right: -20px;
+    transition: 0.4s;
+  }
+
+  .css-button-arrow--green {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    overflow: hidden;
+    border-radius: 5px;
+    border: none;
+    background-color: #588157
+  }
+  .css-button-arrow--green:hover {
+    border-radius: 5px;
+    padding-right: 24px;
+    padding-left:8px;
+  }
+  .css-button-arrow--green:hover:after {
+    opacity: 1;
+    right: 10px;
+  }
+  .css-button-arrow--green:after {
+    content: "\00BB";
+    position: absolute;
+    opacity: 0;
+    font-size: 20px;
+    line-height: 40px;
+    top: 0;
+    right: -20px;
+    transition: 0.4s;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #1d3557;
+  }
+
+  /* Bottom right text */
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    color: #1d3557;
+  }
+  
